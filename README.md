@@ -31,11 +31,9 @@ It serves as a hub to highlight trainee achievements, connect them with companie
 ---
 
 ## 🛠️ Tech Stack (Suggested)
-- **Frontend**: React / Angular / Vue
-- **Backend**: .NET Core / Node.js / Django
-- **Database**: SQL Server / PostgreSQL / MongoDB
-- **Hosting**: Azure / AWS / Heroku
-
+- **Frontend**:  Angular
+- **Backend**: .NET Core
+- **Database**: SQL Server
 ---
 
 ## 🚀 Getting Started
