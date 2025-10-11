@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Depihub
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.3.5.
@@ -57,3 +58,49 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+=======
+# 🚀 DEPI HUB
+
+**DEPI HUB** is a web platform designed to showcase the projects of **DEPI trainees** in an organized and professional way.  
+It serves as a hub to highlight trainee achievements, connect them with companies, and document successful projects coming out of DEPI.
+
+---
+
+## 🎯 Goals
+- Showcase the work of DEPI trainees.
+- Facilitate communication between trainees and companies/institutions.
+- Create a reference hub for successful DEPI projects.
+
+---
+
+## ✨ Features
+- **Project Showcase**: Upload project details (name, description, technologies, GitHub/live demo link).
+- **Categories**: Organize projects by domain (Web, AI, Mobile, Data Science, IoT…).
+- **Personal Profiles**: Each trainee has a profile with their skills and projects.
+- **Networking**: Allow companies and trainers to reach out to trainees.
+- **Search & Filters**: Filter projects by technology, trainee name, or field.
+- **Admin Dashboard**: Manage content, approve projects before publishing.
+
+---
+
+## 💡 Benefits
+- Support DEPI’s vision of preparing youth for the job market.
+- Provide a central reference for trainee achievements.
+- Market trainees professionally to companies.
+- Encourage quality and competitiveness among trainees.
+
+---
+
+## 🛠️ Tech Stack (Suggested)
+- **Frontend**:  Angular
+- **Backend**: .NET Core
+- **Database**: SQL Server
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/your-username/depi-hub.git
+cd depi-hub
+>>>>>>> 413376668dcd7d4a7a82bcc4a16e0e910ec94aed
