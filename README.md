@@ -40,6 +40,5 @@ It serves as a hub to highlight trainee achievements, connect them with companie
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/depi-hub.git
+git clone https://github.com/AhmedRefat2/DEPI-Hub.git
 cd depi-hub
->>>>>>> 413376668dcd7d4a7a82bcc4a16e0e910ec94aed
